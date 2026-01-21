@@ -1,4 +1,13 @@
-## Hi there 👋
+## About
+
+Teddy Taussig is a Junior at Connecticut College studying computer science. He is interested in opportunities regarding software engineering, game design, and sports analytics. He enjoys getting really good at skills, whether they be ultimate frisbee, chess, or solving Rubik’s cubes. Additionally, he likes learning new things and expanding his knowledge of the world. He is extremely committed to doing great work and to being fulfilled by it.
+
+## Projects
+
+### Powerplant Game
+- Collaborated with two classmates to make our own video game from scratch
+- Utilized Unity C# to program game mechanics and features
+- Create our own original music and designs
 
 <!--
 **Tttaussig33/Tttaussig33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
