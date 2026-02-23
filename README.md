@@ -11,7 +11,7 @@ Teddy Taussig is a Junior at Connecticut College studying computer science. He i
 - Utilized C# scripting to program game mechanics and features
 - Produced original music as well as original designs for characters and items
 
-### 🏀 [NBA Expected Points Visualization](https://github.com/Tttaussig33/NBA_Visualization) | D3 / Bootstrap
+### 🏀 [NBA Expected Points Visualization](https://github.com/Tttaussig33/NBA_Visualization) | D3, Bootstrap
 - Built comparative & interactive courts to visualize 30 NBA teams’ regional expected points via D3
 - Divided court into 14 regions by line segmentation & applied log-scaled opacity to heatmap
 
