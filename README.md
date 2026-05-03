@@ -1,15 +1,8 @@
 ## About
 
-Teddy Taussig is a Junior at Connecticut College studying computer science. He's done work in game design and sports analytics. He has high-level leadership experience, captaining his college ultimate frisbee team.
-
-He enjoys playing chess, solving Rubik’s cubes, and working out. Additionally, he likes learning new things and expanding his knowledge of the world. He is extremely committed to doing great work and to being fulfilled by it.
+[Predicting the Tommy Award](https://github.com/Tttaussig33/tommy-award-analysis) is what I'm working on currently. Experience in game design and sports analytics. I'm a junior at Connecticut College studying computer science. High-level leadership experience, captaining my college ultimate frisbee team.
 
 ### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
-
-## Research
-
-### [Tommy Award Winner Analysis](https://github.com/Tttaussig33/tommy-award-analysis) | Python
-Created 6 machine learning models using 38 statistical columns to predict the winner of the Boston Celtics' Tommy Award. Used the best performing model to predict the Tommy Awward winner for all 29 other NBA teams. 
 
 ## Projects
 
