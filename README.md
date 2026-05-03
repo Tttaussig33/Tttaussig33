@@ -1,10 +1,10 @@
 ## About
 
-### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
-
 Teddy Taussig is a Junior at Connecticut College studying computer science. He's done work in game design and sports analytics. He has high-level leadership experience, captaining his college ultimate frisbee team.
 
 He enjoys playing chess, solving Rubik’s cubes, and working out. Additionally, he likes learning new things and expanding his knowledge of the world. He is extremely committed to doing great work and to being fulfilled by it.
+
+### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
 
 ## Research
 
