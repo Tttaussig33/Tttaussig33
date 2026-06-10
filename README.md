@@ -1,6 +1,6 @@
 ## About
 
-[Ultimate Frisbee Analytics](https://github.com/Tttaussig33/frisbee-analytics) is what I'm working on. Experience in game design and sports analytics. I'm a junior at Connecticut College studying computer science. High-level leadership experience through captaining my college ultimate frisbee team.
+[Frisbee Analytics](https://github.com/Tttaussig33/frisbee-analytics) is what I'm working on. Experience in game design and sports analytics. I'm a junior at Connecticut College studying computer science. High-level leadership experience through captaining my college ultimate frisbee team.
 
 ### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
 
