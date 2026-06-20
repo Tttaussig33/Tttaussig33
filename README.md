@@ -1,16 +1,20 @@
 ## About
 
-[Frisbee Analytics](https://github.com/Tttaussig33/frisbee-analytics) is what I'm working on. Experience in game design and sports analytics. I'm a junior at Connecticut College studying computer science. High-level leadership experience through captaining my college ultimate frisbee team.
+[Frisbee Analytics](https://github.com/Tttaussig33/frisbee-analytics) is what I'm working on. Experience in sports analytics and game design. I'm a junior at Connecticut College studying computer science. High-level leadership experience through captaining my college ultimate frisbee team.
 
 ### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
 
 ## Projects
 
+### [Tommy Award Winner Analysis](https://github.com/Tttaussig33/tommy-award-analysis) | Python
+Built a machine learning model to predict Tommy Award winners, a Celtics game award given to the player who best reflects hustle, toughness, and overall impact. Trained and compared multiple classification models using traditional, advanced, and feature-engineered NBA statistics
+
+### [NBA Expected Points Visualization](https://github.com/Tttaussig33/NBA_Visualization) | D3, Bootstrap
+Built comparative & interactive courts to visualize 30 NBA teams’ regional expected points via D3. Divided court into 14 regions by line segmentation & applied log-scaled opacity to heatmap.
+
 ### [Powerplant Game](https://github.com/Tttaussig33/PowerPlant) | Unity, C#
 Created a 2D top-down shooter game in Unity, collaborating with two classmates, utilizing C# scripting to program game mechanics and features, producing original music as well as original designs for characters and items.
 
-### [NBA Expected Points Visualization](https://github.com/Tttaussig33/NBA_Visualization) | D3, Bootstrap
-Built comparative & interactive courts to visualize 30 NBA teams’ regional expected points via D3. Divided court into 14 regions by line segmentation & applied log-scaled opacity to heatmap
 
 <!--
 **Tttaussig33/Tttaussig33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
