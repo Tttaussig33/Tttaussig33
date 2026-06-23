@@ -12,7 +12,7 @@ Built a machine learning model to predict Tommy Award winners, a Celtics game aw
 ### [NBA Expected Points Visualization](https://github.com/Tttaussig33/NBA_Visualization) | D3, Bootstrap
 Built comparative & interactive courts to visualize 30 NBA teams’ regional expected points via D3. Divided court into 14 regions by line segmentation & applied log-scaled opacity to heatmap.
 
-### [Powerplant Game](https://github.com/Tttaussig33/PowerPlant) | Unity, C#
+### [Powerplant](https://github.com/Tttaussig33/PowerPlant) | Unity, C#
 Created a 2D top-down shooter game in Unity, collaborating with two classmates, utilizing C# scripting to program game mechanics and features, producing original music as well as original designs for characters and items.
 
 
