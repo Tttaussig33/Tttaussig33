@@ -6,13 +6,13 @@
 
 ## Projects
 
-### [Boston Celtics Hustle Award Analysis](https://github.com/Tttaussig33/tommy-award-analysis)
+### [Boston Celtics Hustle Award Analysis](https://docs.google.com/presentation/d/1g_KwQOdVHvvcsR4iWgtMXbpwzd_kcn73Mkigvr0UBz0/edit?slide=id.p#slide=id.p)
 Built a machine learning model to predict Tommy Award winners, a Celtics game award given to the player who best reflects hustle, toughness, and overall impact. Trained and compared multiple classification models using traditional, advanced, and feature-engineered NBA statistics
 
-### [NBA Expected Points Visualization](https://github.com/Tttaussig33/NBA_Visualization)
+### [NBA Expected Points Visualization](https://tttaussig33.github.io/NBA_Visualization/)
 Built comparative & interactive courts to visualize 30 NBA teams’ regional expected points via D3. Divided the court into 14 regions by line segmentation & applied log-scaled opacity to the heatmap.
 
-### [Powerplant](https://github.com/Tttaussig33/PowerPlant)
+### [Powerplant](https://youtu.be/uxXzdzv7LhI?si=6PFJGJec-ek2KGEa)
 Created a 2D top-down shooter game in Unity, collaborating with two classmates, utilizing C# scripting to program game mechanics and features, producing original music as well as original designs for characters and items.
 
 
