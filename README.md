@@ -1,6 +1,6 @@
 ## About
 
-[Ultimate Frisbee Asssocation Possesion Browser](https://tttaussig33.github.io/frisbee-analytics/) is what I'm working on. Experience in sports analytics and game design. High-level leadership experience through captaining my college ultimate frisbee team.
+[Possession Browser](https://tttaussig33.github.io/frisbee-analytics/) for the UFA (Ultimate Frisbee Association) is what I'm working on. Experience in sports analytics and game design. High-level leadership experience through captaining my college ultimate frisbee team.
 
 ### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
 
