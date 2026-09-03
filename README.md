@@ -1,10 +1,14 @@
 ## About
 
-[Possession Browser](https://tttaussig33.github.io/frisbee-analytics/) for the UFA (Ultimate Frisbee Association) is what I'm working on. Experience in sports analytics and game design. High-level leadership experience through captaining my college ultimate frisbee team.
+[MLB Pitching Change Notifier](https://github.com/Tttaussig33/mlb-pitching-change-bot) is what I'm working on. Experience in sports analytics and game design. High-level leadership experience through captaining my college ultimate frisbee team.
 
 ### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
 
 ## Projects
+
+### [Ultimate Frisbee Association Possession Browser](https://tttaussig33.github.io/frisbee-analytics/)
+Developed a Python sports analytics pipeline using 2026 UFA play-by-play data to reconstruct and analyze 1,074 offensive possessions across four semifinalists. Tracked throw coordinates, possession paths, hucks, turnovers, and adjusted expected contribution (aEC), while building an interactive possession browser. Identified recurring team-specific spatial patterns and extended the analysis league-wide across all 22 UFA teams and 3,607 O-line goal possessions.
+
 
 ### [Boston Celtics Hustle Award Analysis](https://docs.google.com/presentation/d/1g_KwQOdVHvvcsR4iWgtMXbpwzd_kcn73Mkigvr0UBz0/edit?slide=id.p#slide=id.p)
 Built a machine learning model to predict Tommy Award winners, a Celtics game award given to the player who best reflects hustle, toughness, and overall impact. Trained and compared multiple classification models using traditional, advanced, and feature-engineered NBA statistics
