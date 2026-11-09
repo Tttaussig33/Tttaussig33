@@ -1,6 +1,6 @@
 ## About
 
-[MLB Pitching Change Notifier](https://github.com/Tttaussig33/mlb-pitching-change-bot) is what I'm working on. Experience in basketball, ultimate frisbee, and baseball analytics. High-level leadership experience through captaining my college ultimate frisbee team.
+[Subsequent Offensive Possessions in the UFA](https://github.com/Tttaussig33/UFA_player_archetyping) is what I'm working on. Experience in basketball, ultimate frisbee, and baseball analytics. High-level leadership experience through captaining my college ultimate frisbee team.
 
 ### [Email](tttaussig@gmail.com) | [LinkedIn](https://www.linkedin.com/in/theodore-taussig/)
 
